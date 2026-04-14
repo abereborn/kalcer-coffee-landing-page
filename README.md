@@ -16,7 +16,7 @@ This project represents my early work in frontend development.
 - JavaScript
 
 ## 🌐 Live Demo
-https://abereborn.github.io/Kalcer-Coffeeshop/
+https://abereborn.github.io/kalcer-coffee-landing-page/
 
 ## 📸 Screenshots
 (Add your screenshot here)
