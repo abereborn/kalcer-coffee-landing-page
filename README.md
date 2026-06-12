@@ -18,9 +18,6 @@ This project represents my early work in frontend development.
 ## 🌐 Live Demo
 https://abereborn.github.io/kalcer-coffee-landing-page/
 
-## 📸 Screenshots
-(Add your screenshot here)
-
 ## 📌 Notes
 This project focuses on UI/UX design and layouting.
 
